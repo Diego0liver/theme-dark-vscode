@@ -1,0 +1,35 @@
+{
+  "name": "Theme Oliveira-Dark vscode",
+  "displayName": "Oliveira-Dark-theme",
+  "description": "theme dark 2024!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Diego0liver/theme-dark-vscode.git"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "blue",
+    "tema",
+    "preto",
+    "porple",
+    "dark-blue"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oliveira-Dark-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/diegodev-color-theme.json"
+      }
+    ]
+  }
+}
