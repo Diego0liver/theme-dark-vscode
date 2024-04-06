@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.88.0"
   },
+  "publisher": "diegojof95",
   "categories": [
     "Themes"
   ],
