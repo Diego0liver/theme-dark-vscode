@@ -1,8 +1,8 @@
 {
   "name": "diegojof95",
-  "displayName": "Oliveira-Dark-theme",
-  "description": "theme dark 2024!",
-  "version": "0.0.2",
+  "displayName": "Theme dark Oliveira",
+  "description": "By: Diego Oliveira",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.88.0"
   },
@@ -20,6 +20,7 @@
     "dark",
     "blue",
     "tema",
+    "dracula",
     "preto",
     "porple",
     "dark-blue"
