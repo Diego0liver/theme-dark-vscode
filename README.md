@@ -1,16 +1,15 @@
-# oliveira README
+# Theme Dark Oliveira
 
-## Working with Markdown
+### Não deixe de avaliar nossa tema e sua indicação também e muito importante!!!
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![Tema dark para VsCode](
+    https://drive.google.com/file/d/1_UNxa-nr-JvypIFlTD7pq2G9JEUog0gc/view?usp=drive_link
+)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Tema dark Oliveira](
+    https://drive.google.com/file/d/10m0SY05hzctwtFbMiB5PRRsyHFEezH1x/view?usp=drive_link
+)
 
-## For more information
+## Criado por Diego Oliveira
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+*Github's theme: https://github.com/Diego0liver/theme-dark-vscode.git
