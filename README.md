@@ -1,6 +1,6 @@
 # Theme Dark Oliveira
 
-### Não deixe de avaliar nossa tema. Indique para aquele seu brother Dev!!
+### 
 
 ![Tema dark, vscode](theme1.png)
 
