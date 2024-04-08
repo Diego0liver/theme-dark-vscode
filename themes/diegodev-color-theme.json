@@ -1,7 +1,7 @@
 {
 	"name": "dieodev",
 	"colors": {
-		"editor.background": "#303440",
+		"editor.background": "#2a2d36",
 		"activityBar.background": "#343746",
 		"dropdown.background": "#1d1d1d", 
 		"sideBarSectionHeader.background": "#303241",
@@ -14,7 +14,7 @@
 		"notificationLink.foreground": "#162037",
 		"list.focusBackground": "#15151b",
 		"input.background": "#2c2a36",
-		"statusBar.noFolderBackground": "#e90000",
+		"statusBar.noFolderBackground": "#6656a3",
 		"list.hoverBackground": "#303143",
 		"list.activeSelectionBackground": "#272727",
 		"tab.border": "#13d0d63a",
